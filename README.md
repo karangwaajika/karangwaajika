@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Ajika!
 
-<!--
-**karangwaajika/karangwaajika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>"La vie ne récompense pas ceux qui attendent, mais ceux qui osent avancer malgré la peur."</em><br>
+  <strong>— Anonymous</strong>
+</p>  
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Building VersaPath.ai – a Skill Versatility Accelerator Platform
+- Diving deep into **Spring Boot**, **Kafka**, and **Redis**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning
+- AI-powered app development
+- Java performance optimization
+- Advanced system design
+
+### 💬 Ask me about
+- Java, Spring Boot, or distributed systems
+- Building scalable web apps
+- Python or Django
+- Database design
+
+### 📫 How to reach me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajika-karangwa-22a687188/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="20"/>
+  </a>
+  <a href="mailto:karangwaajika@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="30" height="20"/>
+  </a>
+  <a href="https://ajika-nu.vercel.app/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="30" height="20"/>
+  </a>
+</p>
+
+
+
+
