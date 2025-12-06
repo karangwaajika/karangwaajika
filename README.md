@@ -12,6 +12,7 @@
 ### 🌱 What I'm learning
 - AI-powered app development
 - Java performance optimization
+- AWS Cloud Practitioner
 - Advanced system design
 
 ### 💬 Ask me about
