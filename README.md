@@ -5,21 +5,13 @@
   <strong>— Anonymous</strong>
 </p>  
 
-### 🔭 What I'm working on
-- Building VersaPath.ai – a Skill Versatility Accelerator Platform
-- Diving deep into **Spring Boot**, **Kafka**, and **Redis**
-
-### 🌱 What I'm learning
-- AI-powered app development
-- Java performance optimization
-- AWS Cloud Practitioner
-- Advanced system design
-
 ### 💬 Ask me about
 - Java, Spring Boot, or distributed systems
 - Building scalable web apps
 - Python or Django
 - Database design
+- Cloud & AWS Services
+- API (REST API, GraphQL & tRPC)
 
 ### 📫 How to reach me
 <p align="center">
